@@ -1,8 +1,13 @@
 package org.example.realization.stream.entity;
 
 public class Person {
-  private int age;
-  private String name;
+    private String name;
+    private int age;
+
+    public Person(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
 
     public int getAge() {
         return age;
