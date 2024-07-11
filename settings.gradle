@@ -1,5 +1,6 @@
 rootProject.name = 'Aston-Intensive'
 include 'Topic-1-Data-Structure'
 include 'Topic-2-StreamAPI-Exceptions'
-
+include 'Topic-3-Web-Threads'
+include 'IntensiveDI'
 
